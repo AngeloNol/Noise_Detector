@@ -8,7 +8,7 @@ For the EE 221L final project, a noise detector was designed and tested on an br
 
 Software:
 
--LTSpice
+ -LTSpice
 
   Hardware:
 
