@@ -12,7 +12,7 @@ Software:
 
   Hardware:
 
-  -5v Battery
+  - 5v Battery
   -1 LED
   -1 470 Resistor
   -4 10K Resistor
